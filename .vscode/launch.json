@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<social_login>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "dev.vishal.social_login.Application",
+            "projectName": "social_login",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

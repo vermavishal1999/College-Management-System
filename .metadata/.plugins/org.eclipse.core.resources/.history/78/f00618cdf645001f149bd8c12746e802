@@ -1,0 +1,5 @@
+package dev.vishal.social_login;
+
+@RestController
+public class HomeController {
+}
